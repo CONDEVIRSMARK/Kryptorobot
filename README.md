@@ -1,0 +1,2 @@
+# Kryptorobot
+DepeneencyGraph$
